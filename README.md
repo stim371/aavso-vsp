@@ -1,0 +1,1 @@
+http://www.aavso.org/accessing-variable-star-plotter-get-method
